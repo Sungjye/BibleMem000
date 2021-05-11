@@ -1,0 +1,14 @@
+# sln, vc prject files.
+*.sln
+*.csproj
+# Folders
+Library/
+Packages/
+Logs/
+Temp/
+.vscode/
+obj/
+Apk/
+apk/
+Ios/
+ios/
